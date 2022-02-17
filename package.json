@@ -1,0 +1,15 @@
+{
+    "name": "bq-cors",
+    "version": "1.0.0",
+    "main": "",
+    "repository": "",
+    "author": "",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+      "@google-cloud/bigquery": "^5.11.0",
+      "@vercel/node": "^1.12.1",
+      "micro": "^9.3.4"
+    }
+  }
+  
